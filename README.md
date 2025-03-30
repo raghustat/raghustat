@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghunath Ghosh</h1>
-<h3 align="center">A passionate Data Science Student</h3>
+<h3 align="center"></h3>
 
-# Hi there, I'm Raghunath Ghosh! 👋
+# Hi, I'm Raghunath Ghosh! 👋
 
 ## 🚀 About Me
 
