@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 
-- 👀 I’m interested in **Predictive Analytics** and **Deep Learning**.
-- 🌱 I’m currently learning **Recommendation Systems**.
+- 👀 I’m interested in **Predictive Analytics** , **Data Analytics**.
+- 🌱 I’m currently learning **Time Series Analysis**.
 - 💞️ I’m looking to collaborate on **AI & ML projects**.
 - 👨‍💻 You can also check out my **[Projects](https://github.com/your-github-username?tab=repositories)**.
 - 📄 Know about my experiences in my **[Resume](#)**.
