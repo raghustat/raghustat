@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 👀 I’m interested in **Predictive Analytics** , **Data Analytics**.
+- 👀 I’m interested in **Predictive Analytics** , **Data Analytics**, **Business Analysis**.
 - 🌱 I’m currently learning **Time Series Analysis**.
 - 💞️ I’m looking to collaborate on **AI & ML projects**.
 - 👨‍💻 You can also check out my **[Projects](https://github.com/your-github-username?tab=repositories)**.
